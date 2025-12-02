@@ -25,7 +25,7 @@ variaveis_entrada = {
     'CD1': {'area': 'ciencia_dados', 'texto': "Gosto de resolver problemas usando matemática e programação", 'peso': 0.9},
     'CD2': {'area': 'ciencia_dados', 'texto': "Tenho interesse em análise de dados e inteligência artificial", 'peso': 1.0},
     'CD3': {'area': 'ciencia_dados', 'texto': "Me divirto trabalhando com planilhas e bancos de dados", 'peso': 0.7},
-    'CD4': {'area': 'ciencia_dados', 'texto': "Tenho facilidade com estatística e raciocínio lógico", 'peso': 0.9},
+    'CD4': {'area': 'ciencia_dados', 'texto': "Tenho facilidade com estatística e raciocínio lógico", 'peso': 0.8},
 
     'GC1': {'area': 'gestao_comercial', 'texto': "Gosto de lidar com pessoas e fazer negócios", 'peso': 0.9},
     'GC2': {'area': 'gestao_comercial', 'texto': "Tenho facilidade para comunicação e persuasão", 'peso': 1.0},
